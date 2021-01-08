@@ -5,6 +5,7 @@ by Matthew Mckerroll
 
 * [Description](#Description)
 * [Screenshot](#Screenshot)
+* [Video](#Video)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
@@ -16,6 +17,10 @@ This is an app that can track employees, their roles, salaries and departments!
 
 ## Screenshot
 ![Image of app](./screenshotOfApp.png)
+
+## Video
+
+[Here is the link to the Video of me using my application](https://drive.google.com/file/d/12won8RwOYX2r5EF8xGj_OubpG1xB2-lK/view)
 
 ## Installation
 
