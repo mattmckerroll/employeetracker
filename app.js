@@ -15,10 +15,7 @@ const connection = mysql.createConnection({
     database: 'employeedb',
   });
 
-for (let i = 0; i < string.length; i++) {
-    const element = string[i];
-    string.tolowercase 
-}
+  init();
 
 function init(){
 
