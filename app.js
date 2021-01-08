@@ -43,11 +43,11 @@ function init(){
                 viewAllEmployees();
                 break;
 
-            case "View all employees by department":
+            case "View all departments":
                 viewAllDepartments();
                 break;
 
-            case "View all employees by role":
+            case "View all roles":
                 viewAllEmployeesByRole();
                 break;
 
@@ -81,7 +81,7 @@ function viewAllEmployees(){
 
 };
 
-function viewAllDepartments() {
+function viewAllDepartments(){
     let query = 'SELECT * FROM department';
 
     connection.query(query, function(err, res) {
